@@ -14,3 +14,8 @@ Git Cheat Sheet 中文版
 
 	https://github.com/umijs/umi-request/blob/HEAD/README_zh-CN.md
 	
+数据 
+	一图胜千言, 何况是四图? 图解DVA 
+	
+	https://www.yuque.com/flying.ni/the-tower/tvzasn
+	
